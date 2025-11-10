@@ -24,14 +24,14 @@ A **file-based Bank Management System** built with Python that simulates real-wo
 ## 📸 Screenshots
 | Menu | Account Creation | Balance Check |
 |------|------------------|----------------|
-| ![Menu](screenshots/main_menu.png) | ![Account](screenshots/account_creation.png) | ![Balance](screenshots/deposit_and_balance_check.png) |
+| ![Menu](screenshots/main_menu.png) | ![Account](screenshots/account_creation.png) | ![Deposit & Balance](screenshots/deposit_and_balance_check.png) |
 
 ---
 
 ## ⚙️ How to Run
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/Bank-Management-System.git
-   cd Bank-Management-System
-# Bank-Management-System
-A file-based banking system implemented in Python with account management, deposits, and balance enquiry features.
+Requirements: Python 3.x
+
+```bash
+git clone https://github.com/venuverrivandla/Bank-Management-System.git
+cd Bank-Management-System
+python3 bank_management_system.py
